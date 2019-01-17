@@ -43,4 +43,4 @@ The sample mean is defined in Equation \@ref(eq:mean).
 (\#eq:mean)
 \end{equation}
 
-Please refer to Figure \@ref(fig:pressure).
+Please refer to Figure \@ref(fig:pressure). Is this cool?
